@@ -1,0 +1,20 @@
+int a;
+int integer;
+
+if (a == 3) {
+/*
+  De atribuit ceva...
+  a = 0;
+*/
+  a = a * 7 + 1;
+}
+else {
+  float x = 3.5;
+  a = a / x - 1;
+  float xfloat = integer;
+}
+
+// Comentariul aici
+
+printf("\"numarul\" %d", a);
+/*
